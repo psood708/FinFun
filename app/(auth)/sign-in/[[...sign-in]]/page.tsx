@@ -25,7 +25,7 @@ export default function Page() {
             </div>
         </div> 
 
-        <div className='h-full bg-[#28A745]  lg:flex items-center justify-center'> 
+        <div className='h-full bg-[#28A745] hidden lg:flex items-center justify-center'> 
             <Image src="/logo.svg" height={200} width={200} alt="logo"/>
         </div>       
     </div>
