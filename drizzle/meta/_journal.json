@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1728731716269,
+      "tag": "0000_lucky_blue_blade",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1728735792523,
+      "tag": "0001_funny_namorita",
+      "breakpoints": true
+    }
+  ]
+}
