@@ -5,4 +5,4 @@ export const accounts = pgTable("accounts",{
     plaidId:text("plaid_id"),
     name:text("name").notNull(),
     usreId:text("user_id").notNull(),
-});
+}); 
